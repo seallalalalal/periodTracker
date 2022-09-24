@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/baseline_date_range_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/baseline_event_available_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/baseline_favorite_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/baseline_filter_vintage_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/baseline_settings_20.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/baseline_settings_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/baseline_water_drop_20.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/baseline_water_drop_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.21452178955078133" />
+        <entry key="app/src/main/res/layout/fragment_calender.xml" value="0.10815602836879433" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.10815602836879433" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_notifications.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_period.xml" value="0.10815602836879433" />
+        <entry key="app/src/main/res/layout/fragment_setting.xml" value="0.21725637016566932" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">periodTracker</string>
+    <string name="title_home">Home</string>
+    <string name="title_calender">Calender</string>
+    <string name="title_perioed">Period</string>
+    <string name="title_setting">Setting</string>
+</resources>
