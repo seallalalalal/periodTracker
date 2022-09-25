@@ -6,9 +6,7 @@ plugins {
 
 }
 
-dependencies {
-    implementation 'org.naishadhparmar.zcustomcalendar:zcustomcalendar:1.0.1'
-}
+
 
 task clean(type: Delete) {
     delete rootProject.buildDir
