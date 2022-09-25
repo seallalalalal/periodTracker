@@ -7,6 +7,7 @@ import androidx.lifecycle.ViewModel;
 public class CalenderViewModel extends ViewModel {
 
     private final MutableLiveData<String> mText;
+    private CalenderViewModel calenderViewModel;
 
     public CalenderViewModel() {
         mText = new MutableLiveData<>();

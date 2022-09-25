@@ -11,12 +11,13 @@
         <entry key="app/src/main/res/drawable/baseline_settings_24.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/baseline_water_drop_20.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/baseline_water_drop_24.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/circle_shape.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.21452178955078133" />
-        <entry key="app/src/main/res/layout/fragment_calender.xml" value="0.10815602836879433" />
+        <entry key="app/src/main/res/layout/fragment_calender.xml" value="0.20616302490234376" />
         <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.10815602836879433" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_notifications.xml" value="0.1" />
@@ -31,5 +32,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>
